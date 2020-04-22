@@ -21,8 +21,8 @@ define( 'DB_HOST', 'localhost' );
 
 En base de données
 Dans la table wp_options modifier 
-le port de siteurl : http://localhost:<8888>/wordpress
-le port de home : http://localhost:<8888>/wordpress
+le port de siteurl : http://localhost:<8888>/maboutique
+le port de home : http://localhost:<8888>/maboutique
 
 Ajouter la table wp_users à partir d'une installation WordPress que vous avez déjà faite
 Dans la table wp_user vous avez l'identifiant et le mot de passe du back office.
